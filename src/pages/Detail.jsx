@@ -49,6 +49,21 @@ const Detail = () => {
         <h3>Descripción</h3>
         <p>{group.description}</p>
       </div>
+      <div style={{ marginTop: '30px' }}>
+        <h3>🎵 Canciones Populares</h3>
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
+          {group.songs && group.songs.map((song, index) => (
+            <div key={index} style={{ 
+              padding: '10px', 
+              background: 'rgba(124, 77, 255, 0.1)', 
+              borderRadius: '5px',
+              borderLeft: '4px solid #7c4dff'
+            }}>
+              {song}
+            </div>
+          ))}
+        </div>
+      </div>
     </div>
   );
 };
