@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "BTS",
+    "agency": "HYBE",
+    "members": 7,
+    "description": "Formado en 2013. Compuesto por: Jin, Suga, J-Hope, RM, Jimin, V y Jungkook. Creado dentro del sistema de Idols del K-pop con un fuerte componente de hip hop, el grupo ha incorporado con el tiempo una gran variedad de géneros en su repertorio musical. Actualmente, es el grupo de K-pop más grande del mundo.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "2",
+    "name": "Blackpink",
+    "agency": "YG Entertainment",
+    "members": 4,
+    "description": "Formado en 2016, está conformado por: Jisoo, Jennie, Rosé y Lisa. Es el grupo femenino líder global por ser demasiado conocidas alrededor del mundo.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "3",
+    "name": "Twice",
+    "agency": "JYP Entertainment",
+    "members": 9,
+    "description": "Formado a través del programa llamado Sixteen. El grupo está conformado por: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung y Tzuyu. Twice debutó oficialmente el 20 de octubre de 2015 con el lanzamiento del miniálbum The Story Begins. Son conocidas por su música pegajosa y coreografías enérgicas, lo que les ha ganado una gran base de fans a nivel mundial.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
