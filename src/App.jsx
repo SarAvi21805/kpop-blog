@@ -26,7 +26,7 @@ function App() {
           <Link to="/favorites" style={{ color: darkMode ? 'white' : 'black' }}>❤️ Favoritos</Link>
         </div>
 
-        {/* BOTÓN DE TEMA (Requisito Senior extra) */}
+        {/* BOTÓN DE TEMA */}
         <button 
           onClick={toggleTheme}
           style={{ 
@@ -53,8 +53,8 @@ function App() {
         </Routes>
       </main>
 
-      <footer style={{ textAlign: 'center', padding: '20px', fontSize: '0.8rem' }}>
-        © 2024 K-Pop Blog - Proyecto Senior React
+      <footer style={{ textAlign: 'center', padding: '40px', fontSize: '0.9rem', opacity: 0.7 }}>
+        © 2026 K-Pop Blog - Proyecto Senior React
       </footer>
     </div>
   );

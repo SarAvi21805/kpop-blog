@@ -5,7 +5,7 @@
     "agency": "HYBE",
     "members": 7,
     "description": "Formado en 2013. Compuesto por: Jin, Suga, J-Hope, RM, Jimin, V y Jungkook. Creado dentro del sistema de Idols del K-pop con un fuerte componente de hip hop, el grupo ha incorporado con el tiempo una gran variedad de géneros en su repertorio musical. Actualmente, es el grupo de K-pop más grande del mundo.",
-    "image": "https://tse4.mm.bing.net/th/id/OIP._Z7HfFWamELhQ3TBTtn_BAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
+    "image": "https://phinf.wevpstatic.net/MjAyMzA2MTNfMjEz/MDAxNjg2NTg0NDkyODI5.B7xyQViOOqzywlU-6otWD3G1ggUpTELE3kg86DNVXfcg.cNwmx40Z1DNjnpFvUcO-8altF-34pcTbUci-6QI-iocg.JPEG/Weverse_1ad60.jpg?type=w670"
   },
   {
     "id": "2",
@@ -21,6 +21,158 @@
     "agency": "JYP Entertainment",
     "members": 9,
     "description": "Formado a través del programa llamado Sixteen. El grupo está conformado por: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung y Tzuyu. Twice debutó oficialmente el 20 de octubre de 2015 con el lanzamiento del miniálbum The Story Begins. Son conocidas por su música pegajosa y coreografías enérgicas, lo que les ha ganado una gran base de fans a nivel mundial.",
-    "image": "https://www.nme.com/wp-content/uploads/2021/04/twice-betterconceptphoto-2020.jpg"
+    "image": "https://i.pinimg.com/474x/58/09/90/5809909f82400bb23c857c9c843957ce.jpg"
+  },
+  {
+    "id": "4",
+    "name": "EXO",
+    "agency": "SM Entertainment",
+    "members": 9,
+    "description": "Formado en 2012. Originalmente promovido en Corea y China. Sus miembros incluyen: Suho, Xiumin, Lay, Baekhyun, Chen, Chanyeol, D.O., Kai y Sehun. Son conocidos por su poderosa presencia escénica y éxitos como 'Growl' y 'Love Shot'.",
+    "image": "https://th.bing.com/th/id/R.5e10d096747f19fcd8cf2056eb220a08?rik=DEKTlvc2%2b4AmMg&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "5",
+    "name": "Stray Kids",
+    "agency": "JYP Entertainment",
+    "members": 8,
+    "description": "Formado en 2018 a través de un reality show. Sus miembros son: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin e I.N. Son reconocidos por su estilo experimental y producción propia bajo el equipo 3RACHA.",
+    "image": "https://i.pinimg.com/originals/9b/14/64/9b146486191dc696d8da02fb3f6444bf.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Red Velvet",
+    "agency": "SM Entertainment",
+    "members": 5,
+    "description": "Debutaron en 2014. Está conformado por: Irene, Seulgi, Wendy, Joy y Yeri. El grupo es conocido por su concepto dual 'Red' (vibrante) y 'Velvet' (suave), con gran versatilidad musical.",
+    "image": "https://i.pinimg.com/originals/06/3b/1e/063b1e1df2efe357629881b4fa0e7b1a.jpg"
+  },
+  {
+    "id": "7",
+    "name": "SEVENTEEN",
+    "agency": "HYBE",
+    "members": 13,
+    "description": "Debutaron en 2015. Está compuesto por: S.Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8, Seungkwan, Vernon y Dino. Son conocidos por su auto-producción y sincronización en coreografías.",
+    "image": "https://th.bing.com/th/id/R.afcdbe7c0eb07a8ca8ff8fc07fb1af6d?rik=E4QtA3FB%2bvy%2f2g&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "8",
+    "name": "ITZY",
+    "agency": "JYP Entertainment",
+    "members": 5,
+    "description": "Debutaron en 2019. Está conformado por: Yeji, Lia, Ryujin, Chaeryeong y Yuna. Son conocidas por su mensaje de amor propio y canciones como 'DALLA DALLA' y 'WANNABE'.",
+    "image": "https://stylecaster.com/wp-content/uploads/2022/12/ITZY.png?w=1024"
+  },
+  {
+    "id": "9",
+    "name": "ATEEZ",
+    "agency": "KQ Entertainment",
+    "members": 8,
+    "description": "Debutaron en 2018. Está conformado por: Hongjoong, Seonghwa, Yunho, Yeosang, San, Mingi, Wooyoung y Jongho. Son conocidos por sus intensas presentaciones y concepto narrativo.",
+    "image": "https://th.bing.com/th/id/R.3fea2fad91c7e29ab91487f2a93ec1e6?rik=4hNUBXrZHhWS0Q&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "10",
+    "name": "aespa",
+    "agency": "SM Entertainment",
+    "members": 4,
+    "description": "Debutaron en 2020. Está conformado por: Karina, Giselle, Winter y Ningning. Destacan por su concepto futurista que mezcla el mundo real con avatares virtuales.",
+    "image": "https://images.prestigeonline.com/wp-content/uploads/sites/5/2022/09/15113108/AESPAW1.jpg"
+  },
+  {
+    "id": "11",
+    "name": "NewJeans",
+    "agency": "ADOR",
+    "members": 5,
+    "description": "Debutaron en 2022. Está conformado por: Minji, Hanni, Danielle, Haerin y Hyein. Han ganado popularidad rápidamente por su estilo fresco y nostálgico.",
+    "image": "https://www.nme.com/wp-content/uploads/2023/06/newjeans-get-up-eta.jpg"
+  },
+  {
+    "id": "12",
+    "name": "IVE",
+    "agency": "Starship Entertainment",
+    "members": 6,
+    "description": "Debutaron en 2021. Está conformado por: Yujin, Gaeul, Rei, Wonyoung, Liz y Leeseo. Son conocidas por su concepto elegante y éxitos como 'LOVE DIVE'.",
+    "image": "https://th.bing.com/th/id/R.152198d85395c32066e3a4c7f069f636?rik=wYNUFIeh6qLcYg&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "13",
+    "name": "TXT",
+    "agency": "HYBE",
+    "members": 5,
+    "description": "Tomorrow X Together debutó en 2019. Está conformado por: Soobin, Yeonjun, Beomgyu, Taehyun y Huening Kai. Son conocidos por su concepto juvenil y evolución musical constante.",
+    "image": "https://www.billboard.com/wp-content/uploads/2023/01/TXT-The-Name-Chapter-TEMPTATION-Nightmare-Concept-Photo-1-billboard-1548.jpg"
+  },
+  {
+    "id": "14",
+    "name": "NCT 127",
+    "agency": "SM Entertainment",
+    "members": 9,
+    "description": "Subunidad de NCT que debutó en 2016. Incluye miembros como Taeyong, Doyoung, Jaehyun, Mark y Haechan. Son conocidos por su sonido experimental y urbano.",
+    "image": "https://www.allkpop.com/upload/2021/10/content/081125/web_data/allkpop_1633706780_untitled-1.jpg"
+  },
+  {
+    "id": "15",
+    "name": "NCT DREAM",
+    "agency": "SM Entertainment",
+    "members": 7,
+    "description": "Otra subunidad de NCT, debutó en 2016. Está conformado por: Mark, Renjun, Jeno, Haechan, Jaemin, Chenle y Jisung. Inicialmente tenía un concepto juvenil.",
+    "image": "https://th.bing.com/th/id/R.410ba550613839ef76e5f96969f5c71d?rik=eh7TkolC%2bA3eDg&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "16",
+    "name": "ENHYPEN",
+    "agency": "BELIFT LAB",
+    "members": 7,
+    "description": "Debutaron en 2020 a través del programa I-LAND. Está conformado por: Jungwon, Heeseung, Jay, Jake, Sunghoon, Sunoo y Ni-ki.",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.zB3NUmcTPSCzzxWkz0TxCwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "17",
+    "name": "LE SSERAFIM",
+    "agency": "HYBE",
+    "members": 5,
+    "description": "Debutaron en 2022. Está conformado por: Sakura, Chaewon, Yunjin, Kazuha y Eunchae. Son conocidas por su concepto fuerte y elegante.",
+    "image": "https://kasioda.com/wp-content/uploads/2022/04/lesserafim6-1536x1024.jpg"
+  },
+  {
+    "id": "18",
+    "name": "(G)I-DLE",
+    "agency": "Cube Entertainment",
+    "members": 5,
+    "description": "Debutaron en 2018. Está conformado por: Soyeon, Miyeon, Minnie, Yuqi y Shuhua. Son conocidas por su estilo único y producción propia.",
+    "image": "https://kpopanswers.com/wp-content/uploads/2023/06/how-old-are-g-idle-members-age-birthday.jpg"
+  },
+  {
+    "id": "19",
+    "name": "MAMAMOO",
+    "agency": "RBW",
+    "members": 4,
+    "description": "Debutaron en 2014. Está conformado por: Solar, Moonbyul, Wheein y Hwasa. Son reconocidas por su talento vocal y presencia escénica.",
+    "image": "https://th.bing.com/th/id/R.f526cf4cd68a1f819e5011b8d71bf7bf?rik=WTaOoGZ15wobOw&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "20",
+    "name": "TREASURE",
+    "agency": "YG Entertainment",
+    "members": 10,
+    "description": "Debutaron en 2020. Está conformado por: Choi Hyunsuk, Jihoon, Yoshi, Junkyu, Mashiho, Jaehyuk, Asahi, Yedam, Doyoung y Haruto. Son conocidos por su energía juvenil.",
+    "image": "https://kmagazine.mx/wp-content/uploads/2022/10/TREASURE-HELLO-comeback.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Kep1er",
+    "agency": "WAKEONE",
+    "members": 9,
+    "description": "Formado a través del programa Girls Planet 999 en 2021. Incluye miembros como Xiaoting, Chaehyun, Hikaru y Bahiyyih.",
+    "image": "https://dbkpop.com/wp-content/uploads/2023/03/kep1er_lovestruck_teaser_eye_contact_all_group_1-2048x1463.jpg"
+  },
+  {
+    "id": "22",
+    "name": "ZEROBASEONE",
+    "agency": "WAKEONE",
+    "members": 9,
+    "description": "Debutaron en 2023 tras el programa Boys Planet. Está conformado por: Sung Hanbin, Zhang Hao, Matthew, Ricky, Jiwoong, Taerae, Gyuvin, Gunwook y Yujin.",
+    "image": "https://s2-quem.glbimg.com/eD8fzxCfbyq9CTkAPOWvyXLYkiw=/0x0:2700x2160/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2025/J/m/GppscmRZuk2RiZOID26Q/zb1-4-.jpg"
   }
 ]

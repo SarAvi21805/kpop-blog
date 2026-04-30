@@ -36,14 +36,14 @@ const List = () => {
         placeholder="Buscar por nombre..." 
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        style={{ padding: '8px', marginRight: '10px' }}
+        style={{ padding: '8px', marginRight: '10px', borderRadius: '10px', border: '1px solid #ccc' }}
       />
       
       <button onClick={handleRandom} style={{ padding: '8px', cursor: 'pointer' }}>
         Grupo Aleatorio
       </button>
 
-      <div style={{ display: 'flex', flexWrap: 'wrap', marginTop: '20px' }}>
+      <div style={{ display: 'flex', flexWrap: 'wrap', marginTop: '30px', justifyContent: 'center' }}>
         {filteredGroups.map(group => (
           <KpopCard key={group.id} group={group} />
         ))}

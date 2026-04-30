@@ -7,7 +7,7 @@ const Home = () => {
         <h1 style={{ fontSize: '3rem' }}>🎤 K-Pop World Blog</h1>
         <p style={{ fontSize: '1.2rem' }}>Tu portal favorito para conocer a las estrellas del momento.</p>
         <Link to="/items">
-          <button style={{ fontSize: '1.1rem', padding: '15px 30px' }}>Explorar Idols</button>
+          <button style={{ marginTop: '10px',fontSize: '1.1rem', padding: '15px 30px' }}>Explorar Idols</button>
         </Link>
       </header>
       
