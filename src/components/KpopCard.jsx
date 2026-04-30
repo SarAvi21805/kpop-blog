@@ -9,7 +9,7 @@ const KpopCard = ({ group }) => {
         <h3>{group.name}</h3>
         <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>{group.agency}</p>
       </div>
-      <Link to={`/items/${group.id}`}>
+      <Link to={`/items/${group.id}`} style={{width: '100%'}}>
         <button style={{ width: '100%' }}>Ver detalles</button>
       </Link>
     </div>
